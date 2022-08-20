@@ -1,6 +1,7 @@
-# Jarot
+# yy
 
-<img src="https://telegra.ph/file/696076406bf2516adb1fd.jpg" width="200" height="200"/>
+<p><a href="https://heroku.com/deploy?template="https://github.com/KurrXd/KurzBotAssistan"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
 
 
 # NOTE: DILARANG MENJUAL BELIKAN SCRIPT 
